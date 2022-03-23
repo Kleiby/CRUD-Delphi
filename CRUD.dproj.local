@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2022/03/21 19:39:09.000.708,=C:\Users\Kleiby Miranda\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/03/23 03:01:17.000.751,=C:\Users\Kleiby Miranda\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/03/23 03:08:23.000.892,=C:\Users\Kleiby Miranda\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2022/03/23 03:13:51.000.680,C:\Users\Kleiby Miranda\Documents\Embarcadero\Studio\Projects\Unit2.pas=D:\Projetos\Cadastro de Clientes\Fonte\UDM.pas</Transaction>
+    <Transaction>2022/03/23 03:13:51.000.680,C:\Users\Kleiby Miranda\Documents\Embarcadero\Studio\Projects\Unit2.dfm=D:\Projetos\Cadastro de Clientes\Fonte\UDM.dfm</Transaction>
+    <Transaction>2022/03/23 03:14:16.000.177,C:\Users\Kleiby Miranda\Documents\Embarcadero\Studio\Projects\Unit1.dfm=D:\Projetos\Cadastro de Clientes\Fonte\UFrmCategorias.dfm</Transaction>
+    <Transaction>2022/03/23 03:14:16.000.177,C:\Users\Kleiby Miranda\Documents\Embarcadero\Studio\Projects\Unit1.pas=D:\Projetos\Cadastro de Clientes\Fonte\UFrmCategorias.pas</Transaction>
+    <Transaction>2022/03/23 03:14:24.000.801,C:\Users\Kleiby Miranda\Documents\Embarcadero\Studio\Projects\Project1.dproj=D:\Projetos\Cadastro de Clientes\Fonte\CRUD.dproj</Transaction>
+    <Transaction>2022/03/23 03:23:37.000.189,=D:\Projetos\Cadastro de Clientes\Fonte\Unit1.pas</Transaction>
+    <Transaction>2022/03/23 03:41:11.000.450,D:\Projetos\Cadastro de Clientes\Fonte\Unit1.pas=D:\Projetos\Cadastro de Clientes\Fonte\UFrmClientes.pas</Transaction>
+    <Transaction>2022/03/23 03:41:11.000.450,D:\Projetos\Cadastro de Clientes\Fonte\Unit1.dfm=D:\Projetos\Cadastro de Clientes\Fonte\UFrmClientes.dfm</Transaction>
+    <Transaction>2022/03/23 03:49:26.000.233,=D:\Projetos\Cadastro de Clientes\Fonte\UFrmCidades.pas</Transaction>
+    <Transaction>2022/03/23 03:57:52.000.796,=D:\Projetos\Cadastro de Clientes\Fonte\Unit2.pas</Transaction>
+    <Transaction>2022/03/23 04:17:22.000.903,=D:\Projetos\Cadastro de Clientes\Fonte\Unit3.pas</Transaction>
+    <Transaction>2022/03/23 04:22:11.000.578,D:\Projetos\Cadastro de Clientes\Fonte\Unit3.dfm=D:\Projetos\Cadastro de Clientes\Fonte\UFrmPesquisar.dfm</Transaction>
+    <Transaction>2022/03/23 04:22:11.000.578,D:\Projetos\Cadastro de Clientes\Fonte\Unit3.pas=D:\Projetos\Cadastro de Clientes\Fonte\UFrmPesquisar.pas</Transaction>
+    <Transaction>2022/03/23 04:37:35.000.220,D:\Projetos\Cadastro de Clientes\Fonte\Unit2.pas=D:\Projetos\Cadastro de Clientes\Fonte\UFrmPrincipal.pas</Transaction>
+    <Transaction>2022/03/23 04:37:35.000.220,D:\Projetos\Cadastro de Clientes\Fonte\Unit2.dfm=D:\Projetos\Cadastro de Clientes\Fonte\UFrmPrincipal.dfm</Transaction>
+    <Transaction>2022/03/23 05:40:13.000.467,=D:\Projetos\Cadastro de Clientes\Fonte\Unit2.pas</Transaction>
+    <Transaction>2022/03/23 05:45:27.000.955,D:\Projetos\Cadastro de Clientes\Fonte\UFrmConsulta.dfm=D:\Projetos\Cadastro de Clientes\Fonte\Unit2.dfm</Transaction>
+    <Transaction>2022/03/23 05:45:27.000.955,D:\Projetos\Cadastro de Clientes\Fonte\UFrmConsulta.pas=D:\Projetos\Cadastro de Clientes\Fonte\Unit2.pas</Transaction>
+    <Transaction>2022/03/23 09:36:20.000.126,=D:\Porjetos\Cadastro de Clientes\Fonte\UQrClientes.pas</Transaction>
+    <Transaction>2022/03/23 11:50:15.000.882,=D:\Porjetos\Cadastro de Clientes\Fonte\UFrmFormularioClientes.pas</Transaction>
+  </Transactions>
+</BorlandProject>
